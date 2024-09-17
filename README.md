@@ -48,10 +48,6 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahelmi365&bg_color=1c1917&title_color=0891b2&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true"/>
 
-<a href="http://www.github.com/ahelmi365" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahelmi365&bg_color=1c1917&title_color=0891b2&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Ali Helmi's GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="http://www.github.com/ahelmi365" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahelmi365&bg_color=1c1917&title_color=0891b2&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Ali Helmi's GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <!-- top kanguages -->
 
 <a href="https://github.com/ahelmi365" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahelmi365&langs_count=7&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
