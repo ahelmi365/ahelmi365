@@ -10,6 +10,7 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
 - 🧠  I'm learning Angular and Advanced React
 - 🤝  I'm open to collaborating on Projects
 - ⚡  I am a big fan of JavaScript
+<hr/>
 
 ### Skills
 
