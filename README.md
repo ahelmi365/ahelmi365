@@ -46,7 +46,7 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
 <!--
 <a href="http://www.github.com/ahelmi365"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahelmi365&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahelmi365&bg_color=1c1917&title_color=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahelmi365&bg_color=1c1917&title_color=0891b2&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true"/>
 
 <a href="http://www.github.com/ahelmi365" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ahelmi365&bg_color=1c1917&title_color=0891b2&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Ali Helmi's GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
