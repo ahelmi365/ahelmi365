@@ -8,7 +8,7 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
 - 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/alihelmi/)
 - ✉️  You can contact me at [ahemli365@gmail.com](mailto:ahemli365@gmail.com)
 - 🧠  I'm learning Angular and Advanced React
-- 🤝  I'm open to collaborating on Projects
+- 🤝  I'm open to collaborating on building responsive and interactive web applications using JavaScript, React, and Angular, leveraging my experience in frontend development.
 - ⚡  I am a big fan of JavaScript
 <hr/>
 
