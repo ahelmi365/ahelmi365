@@ -49,17 +49,17 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
         <a href="https://github.com/ahelmi365/chakra-ui-react" align="left">
             <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=chakra-ui-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
-    </div><br/><br/><br/><br/>
+    </div><br/><br/><br/><br/><br/><br/>
    <div class="repo-box"style="box-sizing: border-box; flex: 1 1 48%; max-width:300px;">
         <a href="https://github.com/ahelmi365/iEat-App" align="right">
             <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=iEat-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
-    </div><br/><br/><br/><br/>
+    </div><br/><br/><br/><br/><br/><br/>
   <div class="repo-box"style="box-sizing: border-box; flex: 1 1 48%; max-width:300px;">
         <a href="https://github.com/ahelmi365/tinymce-text-editor-react" align="left">
             <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=tinymce-text-editor-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
-    </div><br/><br/><br/><br/>
+    </div><br/><br/><br/><br/><br/><br/>
     <div class="repo-box"style="box-sizing: border-box; flex: 1 1 48%; max-width:300px;">
         <a href="https://github.com/ahelmi365/javascript-and-react-paterns" align="right">
             <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=javascript-and-react-paterns&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
