@@ -13,13 +13,15 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
 
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a></p>
+<p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-
+</p>
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-
+</p>
+<p align="center">
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://babeljs.io/img/babel.svg" height="36" alt="Babel" /></a> <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://webpack.js.org/site-logo.c0e60df418e04f58.svg" width="" height="36" alt="Webpack" /></a>
 
 </p>
@@ -42,6 +44,28 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ahelmi365/chakra-ui-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=chakra-ui-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ahelmi365/iEat-App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=iEat-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ahelmi365/tinymce-text-editor-react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=tinymce-text-editor-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ahelmi365/javascript-and-react-paterns" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=javascript-and-react-paterns&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+    <div>
+        <a href="https://github.com/ahelmi365/chakra-ui-react" align="left">
+            <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=chakra-ui-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/ahelmi365/iEat-App" align="right">
+            <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=iEat-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        </a>
+    </div>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <div>
+        <a href="https://github.com/ahelmi365/tinymce-text-editor-react" align="left">
+            <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=tinymce-text-editor-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/ahelmi365/javascript-and-react-paterns" align="right">
+            <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahelmi365&repo=javascript-and-react-paterns&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        </a>
+    </div>
+</div>
