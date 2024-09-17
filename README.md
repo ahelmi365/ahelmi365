@@ -1,3 +1,23 @@
+<style>
+   .repos-container{
+        display:flex;
+        gap:1rem;
+        flex-wrap:wrap;
+        justify-content:flex-start;
+    }
+    .repo-box {
+        background-color: green;
+        box-sizing: border-box;
+        flex: 1 1 48%;
+        max-width:300px;
+    }
+    .repo-box img{
+        /* width:100%; */
+        min-width:320px
+    }
+ 
+</style>
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Helmi
 
 ## Frontend Developer
@@ -66,22 +86,3 @@ Hi there! I'm Ali Helmi, a Frontend Developer who loves building websites that a
         </a>
     </div>
 </div>
-<style>
-   .repos-container{
-        display:flex;
-        gap:1rem;
-        flex-wrap:wrap;
-        justify-content:flex-start;
-    }
-    .repo-box {
-        background-color: green;
-        box-sizing: border-box;
-        flex: 1 1 48%;
-        max-width:300px;
-    }
-    .repo-box img{
-        /* width:100%; */
-        min-width:320px
-    }
- 
-</style>
